@@ -23,7 +23,7 @@ em strong  {
     color: red;
 }
 
-h1 {
+.titulo-centro {
     text-align: center;
 }
 
@@ -33,10 +33,6 @@ h1 {
 
 .beneficios{
     background: #FFFFFF;
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
