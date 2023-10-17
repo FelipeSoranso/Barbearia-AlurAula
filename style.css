@@ -3,7 +3,7 @@ body {
 }
 
 #loja {
-    width: 100%;
+    width: 50%;
 }
 
 .principal {
@@ -36,4 +36,8 @@ h1 {
 
 h2 {
     text-align: center;
+}
+
+.imagembeneficios {
+    width: 50%;
 }
