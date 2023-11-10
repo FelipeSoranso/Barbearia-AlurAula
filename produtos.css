@@ -31,3 +31,42 @@ nav a {
     font-size: xx-large;
     text-decoration: none;
 }
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 30;
+    vertical-align: top;
+}
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.preco {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.desc {
+    font-size: 18px;
+}
+
+#fio {
+    width: 20%;
+}
+
+#luz {
+    width: 20%
+}
+
+#agua {
+    width:30%
+}
