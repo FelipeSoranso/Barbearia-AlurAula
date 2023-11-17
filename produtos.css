@@ -61,6 +61,11 @@ nav a {
     margin: 10px 0 0;
 }
 
+#marca {
+    border: 5px solid #000000;
+         
+}
+
 .desc {
     font-size: 18px;
 }
